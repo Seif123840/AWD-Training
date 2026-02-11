@@ -1,5 +1,7 @@
-package esprit.candidat;
+package esprit.candidat.service;
 
+import esprit.candidat.entity.Candidat;
+import esprit.candidat.repository.CandidatRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

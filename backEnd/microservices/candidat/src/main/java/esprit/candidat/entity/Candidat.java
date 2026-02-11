@@ -1,4 +1,4 @@
-package esprit.candidat;
+package esprit.candidat.entity;
 
 
 import jakarta.persistence.Entity;
